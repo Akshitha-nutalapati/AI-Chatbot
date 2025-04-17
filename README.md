@@ -1,2 +1,2 @@
-# codsoft
-My first repository for codsoft internship
+#First project
+My first repository
